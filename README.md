@@ -1,2 +1,2 @@
 # Mdlink
-A simple Chrome extension to create a markdownlink of the current page
+A Chrome extension to create a markdown-link of the current page and copy it to the clipboard.
