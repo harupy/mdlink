@@ -1,8 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Markdown Link Maker",
+  "name": "MDLink",
   "version": "0.1.1",
-
   "description": "Create a markdown link of the current page",
   "icons": {
     "48": "logo.png"
